@@ -1,1 +1,1 @@
-# ds-ia2
+I created a dictionary that displays words and thier meanings using binary search tree. The words are stored and inserted using strcmp(), with the negatives in the left subtree and the positives in the right subtree. The search operation is performed in a similar manner. 
